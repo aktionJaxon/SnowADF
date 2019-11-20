@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Loaner Request">f62d9fe4c1dd40107f444c71902a56ab</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 19:40:12</sys_created_on>
+        <sys_id>3e2d1328c1dd40107f444c71902a5684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Local Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">71ca3844c19900107f444c71902a5650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">71ca3844c19900107f444c71902a5650</sys_scope>
+        <sys_update_name>sc_cat_item_category_3e2d1328c1dd40107f444c71902a5684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 19:40:12</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
