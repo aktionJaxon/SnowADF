@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Use to trigger an email to remind a user to pick up their loaner item</description>
+        <event_name>x_cdltd_loaner_req.reminder</event_name>
+        <fired_by>Scheduled Script Execution - </fired_by>
+        <queue/>
+        <suffix>reminder</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-20 15:29:00</sys_created_on>
+        <sys_id>83a36a28c15d40107f444c71902a56d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.reminder</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">71ca3844c19900107f444c71902a5650</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">71ca3844c19900107f444c71902a5650</sys_scope>
+        <sys_update_name>sysevent_register_83a36a28c15d40107f444c71902a56d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-20 15:29:00</sys_updated_on>
+        <table>x_cdltd_loaner_req_loaner_request</table>
+    </sysevent_register>
+</record_update>
