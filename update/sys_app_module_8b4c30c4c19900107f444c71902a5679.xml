@@ -15,7 +15,7 @@
         <name>x_cdltd_loaner_req_loaner_request</name>
         <order>2</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;f62d9fe4c1dd40107f444c71902a56ab</query>
+        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=f62d9fe4c1dd40107f444c71902a56ab</query>
         <report/>
         <roles>x_cdltd_loaner_req.loaner_request_user,x_cdltd_loaner_req.admin,admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8b4c30c4c19900107f444c71902a5679</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Create New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">71ca3844c19900107f444c71902a5650</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Loaner Request">71ca3844c19900107f444c71902a5650</sys_scope>
         <sys_update_name>sys_app_module_8b4c30c4c19900107f444c71902a5679</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-20 20:05:38</sys_updated_on>
+        <sys_updated_on>2019-11-20 20:23:35</sys_updated_on>
         <timeline_page/>
         <title>Create New</title>
         <uncancelable>false</uncancelable>
